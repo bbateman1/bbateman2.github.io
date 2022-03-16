@@ -6,11 +6,3 @@ body {
 img {
     height: 100px;
 }
-.img1{
-    max-width: 10%;
-   height: auto;
-   object-fit:cover;
-}
-li a:hover {
-	background-color: rgb(81, 158, 202);
-  }
